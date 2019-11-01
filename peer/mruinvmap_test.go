@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dashpay/godash/wire"
+	"github.com/BlockABC/godash/wire"
 )
 
 // TestMruInventoryMap ensures the MruInventoryMap behaves as expected including

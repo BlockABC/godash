@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dashpay/godash/txscript"
+	"github.com/BlockABC/godash/txscript"
 )
 
 // TestPushedData ensured the PushedData function extracts the expected data out

@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/dashpay/godash/chaincfg"
+	. "github.com/BlockABC/godash/chaincfg"
 )
 
 // Define some of the required parameters for a user-registered

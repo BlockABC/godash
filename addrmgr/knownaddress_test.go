@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dashpay/godash/addrmgr"
-	"github.com/dashpay/godash/wire"
+	"github.com/BlockABC/godash/addrmgr"
+	"github.com/BlockABC/godash/wire"
 )
 
 func TestChance(t *testing.T) {

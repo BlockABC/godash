@@ -9,7 +9,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/dashpay/godash/wire"
+	"github.com/BlockABC/godash/wire"
 )
 
 func TestMemPool(t *testing.T) {

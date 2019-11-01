@@ -8,8 +8,8 @@ package txscript
 import (
 	"sync"
 
-	"github.com/dashpay/godash/btcec"
-	"github.com/dashpay/godash/wire"
+	"github.com/BlockABC/godash/btcec"
+	"github.com/BlockABC/godash/wire"
 )
 
 // sigCacheEntry represents an entry in the SigCache. Entries within the

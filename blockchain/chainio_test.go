@@ -12,8 +12,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dashpay/godash/database"
-	"github.com/dashpay/godash/wire"
+	"github.com/BlockABC/godash/database"
+	"github.com/BlockABC/godash/wire"
 )
 
 // TestErrNotInMainChain ensures the functions related to errNotInMainChain work

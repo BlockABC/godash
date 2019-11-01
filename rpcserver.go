@@ -30,15 +30,15 @@ import (
 
 	"github.com/btcsuite/fastsha256"
 	"github.com/btcsuite/websocket"
-	"github.com/dashpay/godash/blockchain"
-	"github.com/dashpay/godash/btcec"
-	"github.com/dashpay/godash/btcjson"
-	"github.com/dashpay/godash/chaincfg"
-	"github.com/dashpay/godash/database"
-	"github.com/dashpay/godash/mining"
-	"github.com/dashpay/godash/txscript"
-	"github.com/dashpay/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/BlockABC/godash/blockchain"
+	"github.com/BlockABC/godash/btcec"
+	"github.com/BlockABC/godash/btcjson"
+	"github.com/BlockABC/godash/chaincfg"
+	"github.com/BlockABC/godash/database"
+	"github.com/BlockABC/godash/mining"
+	"github.com/BlockABC/godash/txscript"
+	"github.com/BlockABC/godash/wire"
+	"github.com/BlockABC/godashutil"
 )
 
 const (

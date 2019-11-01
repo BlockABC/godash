@@ -6,8 +6,8 @@
 package blockchain
 
 import (
-	"github.com/dashpay/godash/btcec"
-	"github.com/dashpay/godash/txscript"
+	"github.com/BlockABC/godash/btcec"
+	"github.com/BlockABC/godash/txscript"
 )
 
 // -----------------------------------------------------------------------------

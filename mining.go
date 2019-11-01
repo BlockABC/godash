@@ -11,11 +11,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/dashpay/godash/blockchain"
-	"github.com/dashpay/godash/mining"
-	"github.com/dashpay/godash/txscript"
-	"github.com/dashpay/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/BlockABC/godash/blockchain"
+	"github.com/BlockABC/godash/mining"
+	"github.com/BlockABC/godash/txscript"
+	"github.com/BlockABC/godash/wire"
+	"github.com/BlockABC/godashutil"
 )
 
 const (

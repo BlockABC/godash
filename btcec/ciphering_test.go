@@ -10,7 +10,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/dashpay/godash/btcec"
+	"github.com/BlockABC/godash/btcec"
 )
 
 func TestGenerateSharedSecret(t *testing.T) {

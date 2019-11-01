@@ -21,17 +21,17 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dashpay/godash/addrmgr"
-	"github.com/dashpay/godash/blockchain"
-	"github.com/dashpay/godash/blockchain/indexers"
-	"github.com/dashpay/godash/chaincfg"
-	"github.com/dashpay/godash/database"
-	"github.com/dashpay/godash/mining"
-	"github.com/dashpay/godash/peer"
-	"github.com/dashpay/godash/txscript"
-	"github.com/dashpay/godash/wire"
-	"github.com/dashpay/godashutil"
-	"github.com/dashpay/godashutil/bloom"
+	"github.com/BlockABC/godash/addrmgr"
+	"github.com/BlockABC/godash/blockchain"
+	"github.com/BlockABC/godash/blockchain/indexers"
+	"github.com/BlockABC/godash/chaincfg"
+	"github.com/BlockABC/godash/database"
+	"github.com/BlockABC/godash/mining"
+	"github.com/BlockABC/godash/peer"
+	"github.com/BlockABC/godash/txscript"
+	"github.com/BlockABC/godash/wire"
+	"github.com/BlockABC/godashutil"
+	"github.com/BlockABC/godashutil/bloom"
 )
 
 const (

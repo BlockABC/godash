@@ -12,7 +12,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dashpay/godash/btcjson"
+	"github.com/BlockABC/godash/btcjson"
 )
 
 // TestWalletSvrWsCmds tests all of the wallet server websocket-specific

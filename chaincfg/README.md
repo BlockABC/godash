@@ -26,8 +26,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/dashpay/godashutil"
-	"github.com/dashpay/godash/chaincfg"
+	"github.com/BlockABC/godashutil"
+	"github.com/BlockABC/godash/chaincfg"
 )
 
 var testnet = flag.Bool("testnet", false, "operate on the testnet Bitcoin network")

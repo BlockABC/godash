@@ -6,8 +6,8 @@
 package txscript
 
 import (
-	"github.com/dashpay/godash/chaincfg"
-	"github.com/dashpay/godashutil"
+	"github.com/BlockABC/godash/chaincfg"
+	"github.com/BlockABC/godashutil"
 )
 
 const (

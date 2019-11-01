@@ -11,11 +11,11 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/dashpay/godash/blockchain"
-	"github.com/dashpay/godash/chaincfg"
-	"github.com/dashpay/godash/database"
-	_ "github.com/dashpay/godash/database/ffldb"
-	"github.com/dashpay/godashutil"
+	"github.com/BlockABC/godash/blockchain"
+	"github.com/BlockABC/godash/chaincfg"
+	"github.com/BlockABC/godash/database"
+	_ "github.com/BlockABC/godash/database/ffldb"
+	"github.com/BlockABC/godashutil"
 )
 
 // This example demonstrates how to create a new chain instance and use

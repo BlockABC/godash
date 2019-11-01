@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/dashpay/godash/btcec"
-	"github.com/dashpay/godash/wire"
+	"github.com/BlockABC/godash/btcec"
+	"github.com/BlockABC/godash/wire"
 )
 
 // ScriptFlags is a bitmask defining additional operations or tests that will be

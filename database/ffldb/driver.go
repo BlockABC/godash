@@ -9,8 +9,8 @@ import (
 	"fmt"
 
 	"github.com/btcsuite/btclog"
-	"github.com/dashpay/godash/database"
-	"github.com/dashpay/godash/wire"
+	"github.com/BlockABC/godash/database"
+	"github.com/BlockABC/godash/wire"
 )
 
 var log = btclog.Disabled

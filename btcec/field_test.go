@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dashpay/godash/btcec"
+	"github.com/BlockABC/godash/btcec"
 )
 
 // TestSetInt ensures that setting a field value to various native integers

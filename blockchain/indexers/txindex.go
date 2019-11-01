@@ -9,10 +9,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/dashpay/godash/blockchain"
-	"github.com/dashpay/godash/database"
-	"github.com/dashpay/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/BlockABC/godash/blockchain"
+	"github.com/BlockABC/godash/database"
+	"github.com/BlockABC/godash/wire"
+	"github.com/BlockABC/godashutil"
 )
 
 const (

@@ -18,8 +18,8 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/dashpay/godash/database"
-	"github.com/dashpay/godash/wire"
+	"github.com/BlockABC/godash/database"
+	"github.com/BlockABC/godash/wire"
 )
 
 const (

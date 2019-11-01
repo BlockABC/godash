@@ -13,7 +13,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/dashpay/godash/wire"
+	"github.com/BlockABC/godash/wire"
 	"github.com/davecgh/go-spew/spew"
 )
 

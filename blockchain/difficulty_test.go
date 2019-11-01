@@ -9,7 +9,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/dashpay/godash/blockchain"
+	"github.com/BlockABC/godash/blockchain"
 )
 
 func TestBigToCompact(t *testing.T) {

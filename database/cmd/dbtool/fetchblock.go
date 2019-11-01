@@ -10,8 +10,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/dashpay/godash/database"
-	"github.com/dashpay/godash/wire"
+	"github.com/BlockABC/godash/database"
+	"github.com/BlockABC/godash/wire"
 )
 
 // fetchBlockCmd defines the configuration options for the fetchblock command.

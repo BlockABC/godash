@@ -8,9 +8,9 @@ package blockchain
 import (
 	"fmt"
 
-	"github.com/dashpay/godash/database"
-	"github.com/dashpay/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/BlockABC/godash/database"
+	"github.com/BlockABC/godash/wire"
+	"github.com/BlockABC/godashutil"
 )
 
 // BehaviorFlags is a bitmask defining tweaks to the normal behavior when

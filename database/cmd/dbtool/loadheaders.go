@@ -8,8 +8,8 @@ package main
 import (
 	"time"
 
-	"github.com/dashpay/godash/database"
-	"github.com/dashpay/godash/wire"
+	"github.com/BlockABC/godash/database"
+	"github.com/BlockABC/godash/wire"
 )
 
 // headersCmd defines the configuration options for the loadheaders command.

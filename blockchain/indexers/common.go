@@ -11,9 +11,9 @@ package indexers
 import (
 	"encoding/binary"
 
-	"github.com/dashpay/godash/blockchain"
-	"github.com/dashpay/godash/database"
-	"github.com/dashpay/godashutil"
+	"github.com/BlockABC/godash/blockchain"
+	"github.com/BlockABC/godash/database"
+	"github.com/BlockABC/godashutil"
 )
 
 var (

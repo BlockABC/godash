@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dashpay/godash/database"
-	_ "github.com/dashpay/godash/database/ffldb"
+	"github.com/BlockABC/godash/database"
+	_ "github.com/BlockABC/godash/database/ffldb"
 )
 
 var (

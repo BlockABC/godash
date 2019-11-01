@@ -6,8 +6,8 @@
 package main
 
 import (
-	"github.com/dashpay/godash/blockchain"
-	"github.com/dashpay/godash/wire"
+	"github.com/BlockABC/godash/blockchain"
+	"github.com/BlockABC/godash/wire"
 )
 
 // RuleError identifies a rule violation.  It is used to indicate that

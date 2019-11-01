@@ -15,8 +15,8 @@ import (
 	"runtime/debug"
 	"runtime/pprof"
 
-	"github.com/dashpay/godash/blockchain/indexers"
-	"github.com/dashpay/godash/limits"
+	"github.com/BlockABC/godash/blockchain/indexers"
+	"github.com/BlockABC/godash/limits"
 )
 
 var (

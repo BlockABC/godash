@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dashpay/godash/blockchain"
+	"github.com/BlockABC/godash/blockchain"
 )
 
 // TestTimeSorter tests the timeSorter implementation.

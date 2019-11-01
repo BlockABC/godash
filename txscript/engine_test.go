@@ -8,8 +8,8 @@ package txscript_test
 import (
 	"testing"
 
-	"github.com/dashpay/godash/txscript"
-	"github.com/dashpay/godash/wire"
+	"github.com/BlockABC/godash/txscript"
+	"github.com/BlockABC/godash/wire"
 )
 
 // TestBadPC sets the pc to a deliberately bad result then confirms that Step()

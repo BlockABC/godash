@@ -9,8 +9,8 @@
 package database
 
 import (
-	"github.com/dashpay/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/BlockABC/godash/wire"
+	"github.com/BlockABC/godashutil"
 )
 
 // Cursor represents a cursor over key/value pairs and nested buckets of a
