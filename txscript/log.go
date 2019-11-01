@@ -44,17 +44,7 @@ func SetLogWriter(w io.Writer, level string) error {
 		return errors.New("nil writer")
 	}
 
-	lvl, ok := btclog.LogLevelFromString(level)
-	if !ok {
-		return errors.New("invalid log level")
-	}
-
-	l, err := btclog.NewLoggerFromWriter(w, lvl)
-	if err != nil {
-		return err
-	}
-
-	UseLogger(l)
+	UseLogger(btclog.Disabled)
 	return nil
 }
 
